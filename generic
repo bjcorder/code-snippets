@@ -1,0 +1,3 @@
+# Copy SSH key to remote host
+ssh-copy-id -i $HOME/.ssh/id_rsa bcorder@<REMOTE_IP_ADDRESS>
+
